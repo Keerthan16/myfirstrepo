@@ -3,3 +3,5 @@ amazon
 facebook
 flipkart
 zomato
+swiggy 
+lti
